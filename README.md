@@ -2,6 +2,8 @@
 
 ## Perfoms basic math operations
 
+Requirement: Python 3.6+
+
 Runs in terminal
 
     Welcome to Python Calculator
